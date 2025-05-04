@@ -1,8 +1,8 @@
 # MergeTs
 
-setup/
-1.run : npm install/
-/
-/
-execute unit test/
-1.run : npx jest/
+setup <br />
+1.run : npm install <br />
+<br />
+<br />
+execute unit test<br />
+1.run : npx jest<br />
